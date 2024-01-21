@@ -82,9 +82,9 @@ Certifique-se de ter o Docker Compose instalado. Clone o repositório e execute 
 ```bash
 docker-compose up -d
 ```
-### O projeto estará disponível em http://localhost:8080.
+#### O projeto estará disponível em http://localhost:8080.
 
-Testes Automatizados
+### Testes Automatizados
 O projeto inclui testes automatizados para garantir a integridade e o funcionamento correto das funcionalidades. Execute os testes com o seguinte comando:
 ```bash
 ./mvnw test
